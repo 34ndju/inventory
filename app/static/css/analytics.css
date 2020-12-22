@@ -1,0 +1,26 @@
+h1 {
+    color: white;
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+}
+
+.static-column {
+    color: white;
+    overflow: hidden;
+    background-color: #121212;
+    position: fixed;
+    top: 0;
+    left: 0; 
+    width: 20%;
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+}
+
+.menu-section {
+    font-weight: bolder; 
+    margin-left: 35px; 
+}
